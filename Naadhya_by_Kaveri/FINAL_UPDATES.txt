@@ -1,0 +1,21 @@
+NAADHYA BY KAVERI — FINAL AESTHETIC UPDATE
+
+Courses
+- 2-column desktop layout so every full course name is clearly visible.
+- Added full instrument names and instrument types.
+- Replaced course artwork with coordinated maroon-gold-green classical illustrations.
+
+Gurus
+- Kept all Guru cards in clean vertical portrait format.
+- Improved card proportions, spacing, borders and typography.
+
+Events
+- Replaced all 8 event artworks with a consistent premium Indian-classical visual style.
+- Veena & Instrument Day now visibly features instruments.
+- Tala & Rhythm Lab now visibly features mridangam/rhythm imagery.
+- All event cards use the same polished vertical image treatment.
+
+About
+- Uses the supplied Kaveri portrait.
+- Added a premium editorial-style frame, card treatment and spacing.
+- Preserved the traditional maroon, gold, green and cream palette.
